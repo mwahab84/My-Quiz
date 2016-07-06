@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">My Quiz</string>
+    <string name="quiz_into">Here is a quick quiz that examines your information about the state of Qatar</string>
+    <string name="enter_name">Enter your Name:</string>
+    <string name="questions">Questions</string>
+    <string name="q_1">1- In which continent does state of Qatar reside?</string>
+    <string name="africa">Africa</string>
+    <string name="europe">Europe</string>
+    <string name="asia">Asia</string>
+    <string name="agriculture">Agriculture</string>
+    <string name="gas">Gas</string>
+    <string name="petroleum">Petroleum</string>
+    <string name="q_2">2- What are the main resources of income of Qatar? (Choose all that apply)</string>
+    <string name="q_3">3- Write down the city name colored in red on the map below.</string>
+    <string name="city_name">Enter City Name</string>
+    <string name="q_4">4- When did Qatar achieved its independence?</string>
+    <string name="independence_year">Enter Independence Year</string>
+    <string name="result">The Result:</string>
+    <string name="r_0">0</string>
+    <string name="get_result">Get my Result!</string>
+    <string name="mining">Mining</string>
+    <string name="toast_result">The Result for <xliff name="name" example="Mohamed">%s</xliff></string>
+    <string name="is">is</string>
+    <string name="taker_name">Test Taker Name</string>
+    <string name="no_name">No Name</string>
+</resources>

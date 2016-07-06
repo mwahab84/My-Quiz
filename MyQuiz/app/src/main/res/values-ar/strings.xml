@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إختباري</string>
+    <string name="africa">أفريقيا</string>
+    <string name="agriculture">الزراعة</string>
+    <string name="asia">آسيا</string>
+    <string name="city_name">أدخل اسم المدينة</string>
+    <string name="enter_name">أدخل اسمك</string>
+    <string name="europe">أوروبا</string>
+    <string name="get_result">احسب النتائج</string>
+    <string name="gas">غاز</string>
+    <string name="independence_year">أدخل عام الاستقلال</string>
+    <string name="is">هو</string>
+    <string name="mining">التعدين</string>
+    <string name="petroleum">البترول</string>
+    <string name="q_1">١- في أي قارة تقع دولة قطر؟</string>
+    <string name="q_2">٢- ما هي مصادر الدخل لدولة قطر؟ (اختر كل المناسب)</string>
+    <string name="q_3">٣- اكتب اسم المدينة الملونة باللون الأحمر علي الخريطة.</string>
+    <string name="q_4">متي حصلت دولة قطر علي استقلالها؟</string>
+    <string name="questions">الأسئلة</string>
+    <string name="quiz_into">هذا الاختبار السريع سيختبر معلوماتك عن دولة قطر.</string>
+    <string name="r_0">٠</string>
+    <string name="result">النتيجة:</string>
+    <string name="taker_name">اسم المختبر</string>
+    <string name="toast_result">نتيجة <xliff name="name" example="Mohamed">%s</xliff></string>
+    <string name="no_name">بدون اسم</string>
+</resources>
